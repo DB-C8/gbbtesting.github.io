@@ -1,0 +1,31 @@
+{
+  "name": "Gramercy Best Barbers",
+  "short_name": "GBB",
+  "description": "Premier barbershop in NYC",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#C19558",
+  "icons": [
+    {
+      "src": "/assets/Favicons/192x192@2x.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/Favicons/512x512@2x.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/Favicons/128x128@2x.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/Favicons/152x152@2x.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    }
+  ]
+} 

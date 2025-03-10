@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Allow: /services
+Allow: /contact
+Allow: /about
+Allow: /gallery
+Allow: /reviews
+Sitemap: https://www.nycgbb.com/sitemap.xml 

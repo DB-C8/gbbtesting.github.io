@@ -1,0 +1,32 @@
+/* Mobile first approach */
+/* Base styles are in style.css */
+
+/* Mobile styles (up to 767px) */
+@media screen and (max-width: 767px) {
+    .nav-list {
+        display: none; /* We'll add a mobile menu later */
+    }
+
+    .hero-title {
+        font-size: 2.5rem;
+    }
+}
+
+/* Tablet styles */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .hero-title {
+        font-size: 3rem;
+    }
+}
+
+/* Desktop styles */
+@media screen and (min-width: 1024px) {
+    .hero-title {
+        font-size: 4rem;
+    }
+}
+
+/* Large desktop styles */
+@media screen and (min-width: 1440px) {
+    /* We'll add large desktop-specific styles here */
+} 
